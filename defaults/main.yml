@@ -1,7 +1,7 @@
 ---
 
 # Dotfiles repository
-git_dotfiles_repo: "https://github.com/jan-matthis/dotfiles.git"
+git_dotfiles_repo: "https://github.com/thomasgroch/dotfiles.git"
 
 # Alias to manage dotfiles
 git_dotfiles_alias: "cfg"
